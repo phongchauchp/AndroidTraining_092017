@@ -3,9 +3,10 @@
     package="com.example.sony.training">
 
     <application
+        android:name=".MainApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="Máy Tính byPhongCH"
+        android:label="Room Database"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidTraining_092017</string>
+    <string name="insert_name_button">Insert</string>
+    <string name="get_all">Get All</string>
 </resources>
